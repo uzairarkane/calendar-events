@@ -2,9 +2,9 @@
 
 # Set following env variables additional to .env.example file
 
-GOOGLE_CLIENT_ID=...
-GOOGLE_CLIENT_SECRET=..
-REDIRECT_URI=http://localhost:3333/google/callback
+```GOOGLE_CLIENT_ID=...```
+```GOOGLE_CLIENT_SECRET=...```
+```REDIRECT_URI=http://localhost:3333/google/callback```
 
 # After setting the env run the following commands
 ```node ace migration:run```
