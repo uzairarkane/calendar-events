@@ -55,7 +55,7 @@ Once the server is running, you can utilize the following endpoints in the speci
    - Description: Retrieve the Google authentication URL. Place the retrieved URL in any browser to log into your Google account.
 
 4. **Get Events List**: 
-   - Endpoint: `/events`
+   - Endpoint: `/google/events`
    - Description: Retrieve a list of events.
 
 ### Note
